@@ -9,6 +9,5 @@
         public string AddressId { get; set; } = String.Empty;
         public string City { get; set; } = String.Empty;
         public int Price { get; set; }
-        public string ManagerId { get; set; } = String.Empty;
     }
 }
